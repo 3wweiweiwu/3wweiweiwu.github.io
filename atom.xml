@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>RecordWright</title>
+  
+  <subtitle>Web UI Automation for Pro-Coder and No-Coder.</subtitle>
+  <link href="https://3wweiweiwu.github.io/bluestone-site/atom.xml" rel="self"/>
+  
+  <link href="https://3wweiweiwu.github.io/bluestone-site/"/>
+  <updated>2023-07-06T03:58:50.881Z</updated>
+  <id>https://3wweiweiwu.github.io/bluestone-site/</id>
+  
+  <author>
+    <name>Bluestone</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>v0.5.40 Version Released</title>
+    <link href="https://3wweiweiwu.github.io/bluestone-site/news/2023/07/05/2022-11-09/"/>
+    <id>https://3wweiweiwu.github.io/bluestone-site/news/2023/07/05/2022-11-09/</id>
+    <published>2023-07-06T03:58:29.351Z</published>
+    <updated>2023-07-06T03:58:50.881Z</updated>
+    
+    <content type="html"><![CDATA[<p>Improved first time hit rate in eventrecorder.js by adding auto-reload feature.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Improved first time hit rate in eventrecorder.js by adding auto-reload feature.&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>v0.5.44 Version Released</title>
+    <link href="https://3wweiweiwu.github.io/bluestone-site/news/2023/07/05/post/"/>
+    <id>https://3wweiweiwu.github.io/bluestone-site/news/2023/07/05/post/</id>
+    <published>2023-07-05T04:00:00.000Z</published>
+    <updated>2023-07-06T03:56:41.316Z</updated>
+    
+    <content type="html"><![CDATA[<p>Improved click function to dodge issue from snapshot capture</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Improved click function to dodge issue from snapshot capture&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>v0.5.43 Version Released</title>
+    <link href="https://3wweiweiwu.github.io/bluestone-site/news/2023/03/01/post/"/>
+    <id>https://3wweiweiwu.github.io/bluestone-site/news/2023/03/01/post/</id>
+    <published>2023-03-01T05:00:00.000Z</published>
+    <updated>2023-07-06T03:55:40.571Z</updated>
+    
+    <content type="html"><![CDATA[<p>Increased timeout to fix bug.<br>Updated injection operation to fix long waiting time issue.<br>Enhanced Bluestone’s recognition feature.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Increased timeout to fix bug.&lt;br&gt;Updated injection operation to fix long waiting time issue.&lt;br&gt;Enhanced Bluestone’s recognition feature.</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>v0.5.41 Version Released</title>
+    <link href="https://3wweiweiwu.github.io/bluestone-site/news/2023/02/20/post%20copy/"/>
+    <id>https://3wweiweiwu.github.io/bluestone-site/news/2023/02/20/post%20copy/</id>
+    <published>2023-02-20T05:00:00.000Z</published>
+    <updated>2023-07-06T03:56:30.211Z</updated>
+    
+    <content type="html"><![CDATA[<p>Improved click function to dodge issue from snapshot capture.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Improved click function to dodge issue from snapshot capture.&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>v0.5.40 Version Released</title>
+    <link href="https://3wweiweiwu.github.io/bluestone-site/news/2022/12/09/post/"/>
+    <id>https://3wweiweiwu.github.io/bluestone-site/news/2022/12/09/post/</id>
+    <published>2022-12-09T05:00:00.000Z</published>
+    <updated>2023-07-06T04:00:03.333Z</updated>
+    
+    <content type="html"><![CDATA[<p>Improved click function to dodge issue from snapshot capture.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Improved click function to dodge issue from snapshot capture.&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>v0.5.39 Version Released</title>
+    <link href="https://3wweiweiwu.github.io/bluestone-site/news/2022/11/08/post/"/>
+    <id>https://3wweiweiwu.github.io/bluestone-site/news/2022/11/08/post/</id>
+    <published>2022-11-08T05:00:00.000Z</published>
+    <updated>2023-07-06T03:59:14.858Z</updated>
+    
+    <content type="html"><![CDATA[<ol><li>Enhanced unit test.</li><li>Added on-demand tab capture feature.</li><li>Reverted “Test”.</li></ol>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;ol&gt;
+&lt;li&gt;Enhanced unit test.&lt;/li&gt;
+&lt;li&gt;Added on-demand tab capture feature.&lt;/li&gt;
+&lt;li&gt;Reverted “Test”.&lt;/li&gt;
+&lt;/ol&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
